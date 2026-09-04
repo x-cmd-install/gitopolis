@@ -1,11 +1,13 @@
 about:
-  description: Manage multiple git repositories - CLI tool - run commands, clone, and organize repos with tags
+  description:
+  |
+    Manage multiple git repositories - CLI tool - run commands, clone, and organize repos with tags
   license: AGPL-3.0
   homepage: 
   head: de814ad
   archived: false
   latestVersion: v1.17.2
-  collectedAt: 2026-09-04T05:02:11Z
+  collectedAt: 2026-09-04T20:01:41Z
 timeline:
   created: 2022-06-11
   lastCommit: 2026-05-11
@@ -16,15 +18,23 @@ popularity:
   fork: 6
   release: 63
   contributor: 3
-  pullRequest: 194
+  pullRequest: 214
   issue: 63
 language:
   Rust: 153529
   Shell: 1765
-totalLine: 155294
+totalBytes: 155294
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -55,3 +65,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 25
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 63
+  mergedPR: 20
+  openPR: 3
+  closedIssue: 47
+  openIssue: 16
+  commit: 488
+---
+---
+
