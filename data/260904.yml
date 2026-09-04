@@ -7,7 +7,7 @@ about:
   head: de814ad
   archived: false
   latestVersion: v1.17.2
-  collectedAt: 2026-09-04T20:01:41Z
+  collectedAt: 2026-09-04T20:41:56Z
 timeline:
   created: 2022-06-11
   lastCommit: 2026-05-11
@@ -81,5 +81,33 @@ total:
   openIssue: 16
   commit: 488
 ---
+path: /home/runner/.x-repo/github.com/rustworkshop/gitopolis
+collectedAt: 2026-09-04T20:41:57Z
+loc:
+  Rust:
+    code: 5120
+    comments: 229
+    blanks: 561
+    files: 10
+  Sh:
+    code: 54
+    comments: 11
+    blanks: 8
+    files: 8
+  Toml:
+    code: 48
+    comments: 4
+    blanks: 6
+    files: 3
+  Markdown:
+    code: 0
+    comments: 352
+    blanks: 177
+    files: 4
+total:
+  code: 5265
+  comments: 706
+  blanks: 777
+  files: 25
 ---
 
