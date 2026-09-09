@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3872112,
       "digest": "sha256:22fd064d926c0b10687f7871640d956a3667961a8a906ee033af7dd8dd2a27e9",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-05-11T00:37:04Z",
       "updated_at": "2026-05-11T00:37:04Z",
       "browser_download_url": "https://github.com/timabell/gitopolis/releases/download/v1.17.2/gitopolis-linux-x86_64.tar.gz"
