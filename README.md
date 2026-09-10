@@ -22,7 +22,16 @@ x install gitopolis
 - **Latest**: `v1.17.2` (2026-05-11)
 - **Last commit**: 2026-05-11
 - **Assets in release**: 5
-- **Published**: 2026-05-11T00:37:05Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gitopolis-linux-x86_64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-linux-x86_64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [gitopolis-macos-aarch64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-macos-aarch64.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
+| [gitopolis-macos-x86_64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-macos-x86_64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [gitopolis-windows-x86_64.zip](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-windows-x86_64.zip) | 1.6 MiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/SHA256SUMS.txt) | 384 B | `other` |
 
 ## Popularity
 
@@ -56,8 +65,8 @@ Total: **5,222** lines of code across **25** files in the top 5 languages.
 Install metadata for gitopolis lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitopolis` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gitopolis.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gitopolis.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:25Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:20:47Z._
