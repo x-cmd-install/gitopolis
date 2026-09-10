@@ -12,6 +12,17 @@ Manage multiple git repositories - CLI tool - run commands, clone, and organize 
 x install gitopolis
 ```
 
+## 代码规模
+
+合计: **5,222** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 5,120 | 229 | 561 | 10 |
+| Sh | 54 | 11 | 8 | 8 |
+| Toml | 48 | 4 | 6 | 3 |
+| Markdown | 0 | 352 | 177 | 4 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/rustworkshop/gitopolis>
@@ -22,16 +33,6 @@ x install gitopolis
 - **最新版本**: `v1.17.2` (2026-05-11)
 - **最近提交**: 2026-05-11
 - **Release 含资产**: 5 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [gitopolis-linux-x86_64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-linux-x86_64.tar.gz) | 3.7 MiB | `native/linux/x64` |
-| [gitopolis-macos-aarch64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-macos-aarch64.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
-| [gitopolis-macos-x86_64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-macos-x86_64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
-| [gitopolis-windows-x86_64.zip](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-windows-x86_64.zip) | 1.6 MiB | `native/win/x64` |
-| [SHA256SUMS.txt](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/SHA256SUMS.txt) | 384 B | `other` |
 
 ## 流行度
 
@@ -46,19 +47,21 @@ x install gitopolis
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 25 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **5,222** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 5,120 | 229 | 561 | 10 |
-| Sh | 54 | 11 | 8 | 8 |
-| Toml | 48 | 4 | 6 | 3 |
-| Markdown | 0 | 352 | 177 | 4 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gitopolis-linux-x86_64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-linux-x86_64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [gitopolis-macos-aarch64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-macos-aarch64.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
+| [gitopolis-macos-x86_64.tar.gz](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-macos-x86_64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [gitopolis-windows-x86_64.zip](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/gitopolis-windows-x86_64.zip) | 1.6 MiB | `native/win/x64` |
+| [SHA256SUMS.txt](https://github.com/rustworkshop/gitopolis/releases/download/v1.17.2/SHA256SUMS.txt) | 384 B | `other` |
 
 ## 改进这些数据
 
@@ -69,4 +72,4 @@ gitopolis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:20:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:08:06Z._
