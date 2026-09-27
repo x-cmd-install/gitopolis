@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3872112,
       "digest": "sha256:22fd064d926c0b10687f7871640d956a3667961a8a906ee033af7dd8dd2a27e9",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-05-11T00:37:04Z",
       "updated_at": "2026-05-11T00:37:04Z",
       "browser_download_url": "https://github.com/timabell/gitopolis/releases/download/v1.17.2/gitopolis-linux-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 384,
       "digest": "sha256:5c0168745e327678f3c649e8e7c4698c04b2caec256f221b8d2f0b8334010c08",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-05-11T00:37:04Z",
       "updated_at": "2026-05-11T00:37:04Z",
       "browser_download_url": "https://github.com/timabell/gitopolis/releases/download/v1.17.2/SHA256SUMS.txt"
