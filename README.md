@@ -36,7 +36,7 @@ Total: **5,222** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 69 · **Forks**: 6 · **Open issues**: 64 · **Contributors**: 3
+- **Stars**: 70 · **Forks**: 6 · **Open issues**: 64 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **5,222** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for gitopolis lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:45:38Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:39:52Z._
